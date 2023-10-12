@@ -1,0 +1,23 @@
+.centerdiv{
+    width: 50%;
+    height: 200px;
+}
+.inp{
+    width: 82%;
+    height: 40px;
+    font-size: large;
+    margin-left: 4px;
+    text-align: center;
+}
+.numbut{
+    margin: 2px;
+    width: 20%;
+    height: 20%;
+    font-size: medium;
+}
+.equalto{
+    width: 41.5%;
+    height: 20%;
+    font-size: medium;
+}
+
